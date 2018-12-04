@@ -25,6 +25,9 @@ Note: Install all the components
 <img width="475" alt="screen shot 2018-12-04 at 12 10 08 am" src="https://user-images.githubusercontent.com/36175498/49427814-2e8de000-f759-11e8-9360-1d39846108e3.png">
 
 4. Set the database server port, which is going to be used to connect php DataBase Adaptor with the database server.
+<img width="477" alt="screen shot 2018-12-04 at 12 12 39 am" src="https://user-images.githubusercontent.com/36175498/49427911-70b72180-f759-11e8-9227-4f930448ff00.png">
+For example, my port# is 5433, so my connection looks like
+
 
 A step by step series of examples that tell you how to get a development env running
 
