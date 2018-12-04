@@ -22,7 +22,9 @@ Note: Install all the components
 <img width="469" alt="screen shot 2018-12-04 at 12 06 06 am" src="https://user-images.githubusercontent.com/36175498/49427717-ed95cb80-f758-11e8-9c21-e5ec6c26d85d.png">
 
 3. Set the web server port, which is going to be used for access the web page on localhost. For example, my port# is 8080, then, when I access web pages on local host, the link looks like “http:// 127.0.0.1:8080/COEN280/businessrule.html”
+<img width="475" alt="screen shot 2018-12-04 at 12 10 08 am" src="https://user-images.githubusercontent.com/36175498/49427814-2e8de000-f759-11e8-9360-1d39846108e3.png">
 
+4. Set the database server port, which is going to be used to connect php DataBase Adaptor with the database server.
 
 A step by step series of examples that tell you how to get a development env running
 
