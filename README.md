@@ -16,7 +16,9 @@ included in this directory if using a mac.
 
 1. Open AWS tool MAPP installer, start with installation.
 Note: Install all the components 
+<img width="607" alt="screen shot 2018-12-04 at 12 02 39 am" src="https://user-images.githubusercontent.com/36175498/49427413-1bc6db80-f758-11e8-9a7a-f74cb764e2dc.png">
 
+2. Set the path for MAPP, since you are going to put html packages and run the AWS through this folder, pick a easy one.
 
 
 A step by step series of examples that tell you how to get a development env running
