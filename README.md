@@ -1,20 +1,23 @@
 # Project Title
 
-One Paragraph of project description goes here
+Database Design & Application 
+
+## Introduction
+In this project, we design a database application. We use the phpPgAdmin as our DBMS. The web server is Apache Web Server. The database server is PostgreSQL.  
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Download the AWS tool MAPP or use the installer (https://bitnami.com/stack/mapp/installer)
+included in this directory if using a mac.
 
 ### Installing
+
+1. Open AWS tool MAPP installer, start with installation.
+Note: Install all the components 
+
+
 
 A step by step series of examples that tell you how to get a development env running
 
