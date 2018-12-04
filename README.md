@@ -54,36 +54,13 @@ this AWS. (If you are not using the web server port 8080, change 8080 to what ev
 <img width="667" alt="screen shot 2018-12-04 at 12 31 22 am" src="https://user-images.githubusercontent.com/36175498/49428885-0358c000-f75c-11e8-967d-dd554d15b266.png">
 
 13. Then, go to “project” schema you should be able to see all the tables.
+<img width="842" alt="screen shot 2018-12-04 at 12 33 22 am" src="https://user-images.githubusercontent.com/36175498/49428984-487cf200-f75c-11e8-9824-507ebc63d2e1.png">
 
 
+## Running the project
 
+1. Make sure both of your AWS and Postgres server are running, and the COEN280 directory for html files are under correct directory as described in step 10. Open the browser and go to the link “http://127.0.0.1:8080/COEN280/index.html”(if your web server port# is not 8080, use your own port# replace 8080)
 
-
-
-
-
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
 
 Explain what these tests test and why
 
