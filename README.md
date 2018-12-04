@@ -59,10 +59,13 @@ this AWS. (If you are not using the web server port 8080, change 8080 to what ev
 
 ## Running the project
 
-1. Make sure both of your AWS and Postgres server are running, and the COEN280 directory for html files are under correct directory as described in step 10. Open the browser and go to the link “http://127.0.0.1:8080/COEN280/index.html”(if your web server port# is not 8080, use your own port# replace 8080)
+1. Make sure both of your AWS and Postgres server are running, and the COEN280 directory for html files are under correct directory as described in step 10. Open the browser and go to the link “http://127.0.0.1:8080/COEN280/index.html” (if your web server port# is not 8080, use your own port# replace 8080)
 <img width="466" alt="screen shot 2018-12-04 at 12 36 32 am" src="https://user-images.githubusercontent.com/36175498/49429168-bde8c280-f75c-11e8-8d4c-e5cdfc810eaf.png">
 
 2. Just in case you are using different database server port (mine is 5433), go to DatabaseAdaptor.php file and change the port number to your own port number. Also, change the user name, dbname, password to your own setting.
+<img width="343" alt="screen shot 2018-12-04 at 12 38 04 am" src="https://user-images.githubusercontent.com/36175498/49429287-01433100-f75d-11e8-8c6c-d45efab250cf.png">
+
+3. You should be ready to go. The application is divided into to html pages. The index.html tells all the Metric Report required in the Final project requirements. In this page, enter the query number from 1-14 to see all metric report for project requirement which based on our schema design. The query 15 shows the report for “any person with his(her) all classes or project and resource used”, so you should enter a valid user id in the second field.
 
 
 Explain what these tests test and why
