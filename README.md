@@ -1,3 +1,5 @@
+Note: readme file online address: https://github.com/Xiaojun0101/COEN-280-Database.
+
 # Project Title
 
 Database Design & Application 
