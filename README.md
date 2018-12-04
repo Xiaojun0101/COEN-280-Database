@@ -84,35 +84,17 @@ For rule 1 and 2:
 Check the box “Have permission?” to pass rule 1 to show you are the chairperson or you got the permission. Check the box “Honor student?” to show the user to be assigned with new job is an honor student who can afford such heavy work loads. The check for “if this user have more than three job” is included in DatabaseAdaptor.php function “public function get_Qij1” if you do not check the “Honor student?” check box.
 
 For rule 3:
+<img width="494" alt="screen shot 2018-12-04 at 12 46 39 am" src="https://user-images.githubusercontent.com/36175498/49429765-3603b800-f75e-11e8-8ca5-137fb8d4b006.png">
 
+Check the “Have permission?” box to show you have the permission or you are the chairperson. if you don't check the box, the insertion will not work.
 
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+5, all php files start with controller or control are the connection file between the html and DatabaseAdaptor. All sql statements are stored within the DatabaseAdaptor.php
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Author: Jun Jiang, Email: jjiang2@scu.edu
+Author: Xingyi Yan, Email: xyan@scu.edu
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+We want to extend our heartfelt gratitude to our Professor Shuyuan Chen, whose patient guidance, valuable suggestions and constantencouragement make us successfully complete this project. Her conscientious academicspirit and modest, open-minded personality inspire us both in academic study and dailylife. 
