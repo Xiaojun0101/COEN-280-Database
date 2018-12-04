@@ -48,6 +48,10 @@ this AWS. (If you are not using the web server port 8080, change 8080 to what ev
 <img width="998" alt="screen shot 2018-12-04 at 12 26 13 am" src="https://user-images.githubusercontent.com/36175498/49428586-52522580-f75b-11e8-88a6-9dd9254e38f1.png">
 
 11. login to the DBMS with the password set in step 5
+<img width="792" alt="screen shot 2018-12-04 at 12 28 44 am" src="https://user-images.githubusercontent.com/36175498/49428749-ba087080-f75b-11e8-896b-4040b71f51b4.png">
+
+12. Click the postgres on left side and choose SQL code. Then, we either open the “Database.sql” file and copy paste all from that file to this input field or do the upload an SQL script under this field to load the “Data_query.sql”.
+
 
 
 
