@@ -88,11 +88,12 @@ For rule 3:
 
 Check the “Have permission?” box to show you have the permission or you are the chairperson. if you don't check the box, the insertion will not work.
 
-5, all php files start with controller or control are the connection file between the html and DatabaseAdaptor. All sql statements are stored within the DatabaseAdaptor.php
+All php files start with controller or control are the connection file between the html and DatabaseAdaptor. All sql statements are stored within the DatabaseAdaptor.php
 
 ## Authors
 
 Author: Jun Jiang, Email: jjiang2@scu.edu
+
 Author: Xingyi Yan, Email: xyan@scu.edu
 
 ## Acknowledgments
