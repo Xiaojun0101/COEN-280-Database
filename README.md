@@ -78,6 +78,13 @@ this AWS. (If you are not using the web server port 8080, change 8080 to what ev
 #3 Only the chairperson can add more project, but others may add project if he/she gets permission from the chair person
 
 For rule 1 and 2:
+<img width="530" alt="screen shot 2018-12-04 at 12 44 48 am" src="https://user-images.githubusercontent.com/36175498/49429657-e91fe180-f75d-11e8-81ef-0e2646cdcda2.png">
+
+
+Check the box “Have permission?” to pass rule 1 to show you are the chairperson or you got the permission. Check the box “Honor student?” to show the user to be assigned with new job is an honor student who can afford such heavy work loads. The check for “if this user have more than three job” is included in DatabaseAdaptor.php function “public function get_Qij1” if you do not check the “Honor student?” check box.
+
+For rule 3:
+
 
 
 ## Built With
