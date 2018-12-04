@@ -67,26 +67,18 @@ this AWS. (If you are not using the web server port 8080, change 8080 to what ev
 
 3. You should be ready to go. The application is divided into to html pages. The index.html tells all the Metric Report required in the Final project requirements. In this page, enter the query number from 1-14 to see all metric report for project requirement which based on our schema design. The query 15 shows the report for “any person with his(her) all classes or project and resource used”, so you should enter a valid user id in the second field.
 <img width="307" alt="screen shot 2018-12-04 at 12 40 22 am" src="https://user-images.githubusercontent.com/36175498/49429445-53845200-f75d-11e8-855c-2506fd594a1b.png">
+<img width="358" alt="screen shot 2018-12-04 at 12 42 10 am" src="https://user-images.githubusercontent.com/36175498/49429526-81699680-f75d-11e8-8f96-186c8aeb73ad.png">
 
+4. The second page which is businessrule.html. This page is making insertions to all these tables including the three business rules.
 
+## Business rules (since the resource based database do not have space for the permission)
 
-Explain what these tests test and why
+#1 Only the chairperson or the person with permission can add new jobs for user
+#2 a student cannot have more than 3 active jobs in order not have too much course load, however, we can add job for student with the chairperson’s permission or the student is a honor student.
+#3 Only the chairperson can add more project, but others may add project if he/she gets permission from the chair person
 
-```
-Give an example
-```
+For rule 1 and 2:
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
