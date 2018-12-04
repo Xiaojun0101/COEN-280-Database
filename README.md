@@ -45,6 +45,10 @@ For example, my port# is 5433, so my connection looks like
 
 10. open the browser and go to http://127.0.0.1:8080/phppgadmin/ to find the postgres admin for
 this AWS. (If you are not using the web server port 8080, change 8080 to what ever port you used in step 3)
+<img width="998" alt="screen shot 2018-12-04 at 12 26 13 am" src="https://user-images.githubusercontent.com/36175498/49428586-52522580-f75b-11e8-88a6-9dd9254e38f1.png">
+
+11. login to the DBMS with the password set in step 5
+
 
 
 
