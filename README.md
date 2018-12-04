@@ -35,6 +35,10 @@ For example, my port# is 5433, so my connection looks like
 6. Click next, skip the cloud part if you want, then, the installation starts.
 
 7. Go to the folder you install the MAPP
+<img width="228" alt="screen shot 2018-12-04 at 12 19 38 am" src="https://user-images.githubusercontent.com/36175498/49428293-7eb97200-f75a-11e8-83d6-f3d2c5bfe9a9.png">
+
+8. Open the manager, and go to manage server page to start both PostgreSQL database server and AWS.
+
 
 
 
