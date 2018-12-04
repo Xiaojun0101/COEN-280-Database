@@ -38,6 +38,9 @@ For example, my port# is 5433, so my connection looks like
 <img width="228" alt="screen shot 2018-12-04 at 12 19 38 am" src="https://user-images.githubusercontent.com/36175498/49428293-7eb97200-f75a-11e8-83d6-f3d2c5bfe9a9.png">
 
 8. Open the manager, and go to manage server page to start both PostgreSQL database server and AWS.
+<img width="261" alt="screen shot 2018-12-04 at 12 22 06 am" src="https://user-images.githubusercontent.com/36175498/49428367-b9230f00-f75a-11e8-877c-1a8123960d9d.png">
+
+9. Put the html files which is the directory called COEN280 into directory “apache2/htdocs” (the apache2 should be in the same directory with the AWS manager)
 
 
 
