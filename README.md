@@ -60,6 +60,9 @@ this AWS. (If you are not using the web server port 8080, change 8080 to what ev
 ## Running the project
 
 1. Make sure both of your AWS and Postgres server are running, and the COEN280 directory for html files are under correct directory as described in step 10. Open the browser and go to the link “http://127.0.0.1:8080/COEN280/index.html”(if your web server port# is not 8080, use your own port# replace 8080)
+<img width="466" alt="screen shot 2018-12-04 at 12 36 32 am" src="https://user-images.githubusercontent.com/36175498/49429168-bde8c280-f75c-11e8-8d4c-e5cdfc810eaf.png">
+
+2. Just in case you are using different database server port (mine is 5433), go to DatabaseAdaptor.php file and change the port number to your own port number. Also, change the user name, dbname, password to your own setting.
 
 
 Explain what these tests test and why
