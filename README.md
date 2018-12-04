@@ -30,6 +30,11 @@ For example, my port# is 5433, so my connection looks like
 <img width="270" alt="screen shot 2018-12-04 at 12 14 31 am" src="https://user-images.githubusercontent.com/36175498/49428038-d2778b80-f759-11e8-997c-f546779c3ca0.png">
 
 5. Enter you password for default user in order to login the DB server, which also used for the DBAdaptor connection.
+<img width="394" alt="screen shot 2018-12-04 at 12 17 14 am" src="https://user-images.githubusercontent.com/36175498/49428127-136fa000-f75a-11e8-8778-1fd079d40bc3.png">
+
+6. Click next, skip the cloud part if you want, then, the installation starts.
+
+7. Go to the folder you install the MAPP
 
 
 
